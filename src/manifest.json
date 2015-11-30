@@ -1,7 +1,7 @@
 {
-    "ShortDescription": "This mashup does something, I suppose.",
+    "ShortDescription": "The mashup allows to export data from the created custom grapfical reports and get the information represented in a tabular form.",
     "CompatibleTpVersion": {
-        "Minimum": "3.6.0"
+        "Minimum": "3.7.12"
     },
     "Placeholders": [
         "restui_board"
