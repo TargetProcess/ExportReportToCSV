@@ -1,6 +1,6 @@
 {
   "name": "ExportReportToCSV",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "The mashup allows to export data from the created custom grapfical reports and get the information represented in a tabular form.",
   "keywords": [
     "webpack",
