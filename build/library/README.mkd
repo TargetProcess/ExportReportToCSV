@@ -5,7 +5,7 @@ The mashup allows to export data from the created custom grapfical reports and g
 
 For example, we have a report which shows how many bugs and user stories are in every project:
 
-![Repo](https://github.com/TargetProcess/TP3MashupLibrary/raw/master/Export%20Report%20To%20CSV/report.png)
+![](https://github.com/TargetProcess/TP3MashupLibrary/raw/master/Export%20Report%20To%20CSV/report.png)
 
 When you export such a report into .csv file, you'll see project names and user stories and bugs count shown as columns in the file.
 
